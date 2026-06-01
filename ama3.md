@@ -20,6 +20,11 @@ flex-grow: 1;
 flex-shrink: 1;
 flex-basis: 0;
 ````
+It makes the flex item:
+
+grow to fill available space
+shrink if needed
+share space equally with other flex: 1 items
 
 ## What is `transform` in CSS?
 
