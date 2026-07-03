@@ -1,4 +1,4 @@
-# Django & Elasticsearch Q&A
+# AMA
 
 **1. Can Django modules be written in languages other than Python?**
 
