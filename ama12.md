@@ -111,7 +111,7 @@ function Child({ sendData }) {
 
 A React component must return a single root element because JSX is compiled into a single JavaScript expression (`React.createElement()`).
 
-**❌ Invalid**
+**Invalid**
 ```jsx
 function App() {
   return (
@@ -121,7 +121,7 @@ function App() {
 }
 ```
 
-** Using a wrapper element**
+**Using a wrapper element**
 ```jsx
 function App() {
   return (
@@ -133,7 +133,7 @@ function App() {
 }
 ```
 
-** Using a Fragment (preferred)**
+**Using a Fragment (preferred)**
 ```jsx
 function App() {
   return (
