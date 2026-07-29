@@ -88,7 +88,7 @@ When a user submits a prompt, the LLM begins by processing the request. It combi
 
 ---
 
-# 9. What are Hooks?
+### 9. What are Hooks?
 
 A Hook allows you to intercept and control tool calls before or after they execute. When you write a specific rule in CLAUDE.md telling the agent to run Prettier after every file edited, the agent will follow it most of the time. Alternatively, a hook makes it happen every single time without exceptions because the hook fires independently of what the model decides to do.
 
